@@ -18,7 +18,8 @@ Control your home devices using ESP32 with Siri voice integration via Home Assis
 * 🌐 Cloudflare Tunnel (secure remote access)
 
 <p align="center">
-  <img src="docs/screenshots/home-assistant-dashboard.png" width="80%" />
+  <img src="docs/screenshots/home-assistant-dashboard.png" width="45%" />
+  <img src="docs/screenshots/home-assistant-room.png" width="45%" />
 </p>
 
 ---
@@ -41,14 +42,14 @@ I build real-world systems combining **hardware** and **software**.
 
 From ESP32-based automation to full-stack applications, I focus on creating functional and scalable solutions.
 
-* 🛠️ Currently focusing on: **Embedded Systems** and **IoT**
+* 🛠️ Currently focusing on: **Embedded Systems & IoT**
 * 🚁 Passionate about: **FPV Drone building & freestyle flying**
 
 ---
 
 ## 🚀 What I'm Working On
 
-* 🔌 **Embedded Systems & IoT:** ESP32, automation systems
+* 🔌 **Embedded Systems & IoT:** ESP32, smart automation
 * 💻 **Desktop Development:** C#, .NET, database-driven apps
 * 👁️ **Computer Vision:** OpenCV, MediaPipe
 * 🛸 **FPV Drones:** Hardware, soldering, Betaflight
