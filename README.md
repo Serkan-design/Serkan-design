@@ -26,11 +26,11 @@ I am a developer passionate about the intersection of **hardware** and **softwar
 
 ## 🏠 ESP32 Home Automation System
 
-Control your home devices using ESP32 with Siri voice integration via Home Assistant. Fully self-hosted and secured with Cloudflare.
+Control your home devices using ESP32 with Siri voice integration via Home Assistant.
 
 * 🔌 ESP32 + ESPHome
 * 🏠 Home Assistant
-* 🍏 Apple Home (Siri control)
+* 🍏 Apple Home (Siri)
 * 🌐 Cloudflare Tunnel
 
 <br>
@@ -89,7 +89,7 @@ A full-stack price tracking system with web panel and notification support.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Serkan-design&show_icons=true&theme=tokyonight&hide_border=true" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Serkan-design&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=0" width="55%">
 </p>
 
 ---
@@ -98,11 +98,11 @@ A full-stack price tracking system with web panel and notification support.
 
 <p align="center">
   <a href="mailto:serkanisik67@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   &nbsp;
   <a href="https://instagram.com/sserkan.77">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
 
