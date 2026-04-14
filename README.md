@@ -24,7 +24,7 @@ I am a developer passionate about the intersection of **hardware** and **softwar
 
 ### 🏠 ESP32 Home Automation System
 
-Control your home devices using ESP32 with Siri voice integration via Home Assistant. Fully self-hosted and secured with Cloudflare.
+Control your home devices using ESP32 with Siri voice integration via Home Assistant.
 
 * 🔌 ESP32 + ESPHome
 * 🏠 Home Assistant integration
@@ -32,13 +32,13 @@ Control your home devices using ESP32 with Siri voice integration via Home Assis
 * 🌐 Cloudflare Tunnel
 
 <p align="center">
-  <img src="docs/screenshots/home-assistant-dashboard.png" width="45%" />
-  <img src="docs/screenshots/home-assistant-room.png" width="45%" />
+  <img src="home-assistant-dashboard.png" width="45%" />
+  <img src="home-assistant-room.png" width="45%" />
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/home-assistant-overview.png" width="45%" />
-  <img src="docs/screenshots/apple-home-control.png" width="45%" />
+  <img src="home-assistant-overview.png" width="45%" />
+  <img src="apple-home-control.png" width="45%" />
 </p>
 
 ---
@@ -69,9 +69,9 @@ A full-stack price tracking system with web panel and notification support.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Serkan-design&show_icons=true&theme=tokyonight&hide_border=true" alt="Serkan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Serkan-design&show_icons=true&theme=tokyonight&hide_border=true" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Serkan-design&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Serkan-design&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
